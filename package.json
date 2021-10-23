@@ -1,0 +1,15 @@
+{
+  "name": "dawat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.hhtml\u001b[D\u001b[D\u001b[\u001b[3\u001b[2~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C.html",
+  "scripts": {
+    "deploy": "gh-pages -d dawat"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://shubhmak.github.io/restaurant_homepage",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
